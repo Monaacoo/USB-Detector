@@ -1,3 +1,4 @@
+
 USB Detector
 Este script em Python detecta automaticamente a conexão de dispositivos USB em um computador Windows e exibe a letra da unidade correspondente.
 
@@ -7,7 +8,7 @@ Detecta quando um dispositivo USB é conectado.
 Exibe a letra da unidade do dispositivo USB conectado.
 Requisitos
 Sistema operacional: Windows
-Python 3.x instalado
+Python: Versão 3.x instalada
 Permissões para executar comandos do sistema
 Como usar
 Certifique-se de que o Python 3.x está instalado no seu sistema.
@@ -27,3 +28,4 @@ Este script foi projetado para ser executado apenas em sistemas Windows, pois ut
 
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
+
